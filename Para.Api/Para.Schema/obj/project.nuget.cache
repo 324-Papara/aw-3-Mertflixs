@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSUIwgEhuno=",
+  "success": true,
+  "projectFilePath": "/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/Para.Schema.csproj",
+  "expectedPackageFiles": [
+    "/Users/mertflix/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/mertflix/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

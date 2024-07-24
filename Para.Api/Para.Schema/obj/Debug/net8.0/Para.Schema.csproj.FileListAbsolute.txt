@@ -1,0 +1,16 @@
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Schema.deps.json
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Schema.dll
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Schema.pdb
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Base.dll
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Base.pdb
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.csproj.AssemblyReference.cache
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.AssemblyInfoInputs.cache
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.AssemblyInfo.cs
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.csproj.CoreCompileInputs.cache
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.sourcelink.json
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Sch.F9E7B0A7.Up2Date
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.dll
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/refint/Para.Schema.dll
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.pdb
+/Users/mertflix/Desktop/ppr-bootcamp/week-3/exam-2/aw-3-Mertflixs/Para.Api/Para.Schema/obj/Debug/net8.0/ref/Para.Schema.dll
