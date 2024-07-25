@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Para.Base.Entity;
 using Para.Data.Context;
+using System.Linq.Expressions;
 
 namespace Para.Data.GenericRepository;
 

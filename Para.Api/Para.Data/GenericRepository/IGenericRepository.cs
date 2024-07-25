@@ -1,3 +1,5 @@
+using System.Linq.Expressions;
+
 namespace Para.Data.GenericRepository;
 
 public interface IGenericRepository<TEntity> where TEntity : class

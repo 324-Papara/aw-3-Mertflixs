@@ -2,6 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
+using MediatR;
+using Para.Base.Response;
+using Para.Bussiness.Cqrs;
+using Para.Data.Domain;
+using Para.Data.UnitOfWork;
+using Para.Schema;
 
 namespace Para.Bussiness.Query
 {

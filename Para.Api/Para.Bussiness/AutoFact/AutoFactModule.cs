@@ -21,7 +21,7 @@ namespace Para.Bussiness.AutoFact
     {
         private readonly IConfiguration _configuration;
 
-        public AutofacBusinessModule(IConfiguration configuration)
+        public AutoFactModule(IConfiguration configuration)
         {
             _configuration = configuration;
         }

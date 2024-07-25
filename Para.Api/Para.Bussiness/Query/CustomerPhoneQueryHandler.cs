@@ -24,7 +24,7 @@ namespace Para.Bussiness.Query
         }
 
         public async Task<ApiResponse<List<CustomerPhoneResponse>>> Handle(GetAllCustomerPhoneQuery request, CancellationToken cancellationToken) {
-            List<CutomerPhone> entity = await _unitOfWork.CustomerPhoneRepository.GetAll();
+            List<CustomerPhone> entity = await _unitOfWork.CustomerPhoneRepository.GetAll();
             var res = _mapper.Map<List<CustomerPhoneResponse>>(entity);
             return new ApiResponse<List<CustomerPhoneResponse>>(res);
         }
