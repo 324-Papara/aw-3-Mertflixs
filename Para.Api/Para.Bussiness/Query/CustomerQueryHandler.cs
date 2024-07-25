@@ -39,6 +39,18 @@ public class CustomerQueryHandler :
 
     public async Task<ApiResponse<List<CustomerResponse>>> Handle(GetCustomerByParametersQuery request, CancellationToken cancellationToken)
     {
-        throw new NotImplementedException();
+        var customer = await unitOfWork.CustomerRepository.GetAll();
+
+        if (request.CustomerId > 0)
+            customer = customer.Where(x => x.Id == request.CustomerId).ToList();
+        
+        if (!string.IsNullOrWhiteSpace(request.Name))
+            customer = customer.Where(x => x.FirstName == request.Name).ToList();
+
+        if (!string.IsNullOrWhiteSpace(request.IdentityNumber))
+            customer = customer.Where(x => x.IdentityNumber == request.IdentityNumber).ToList();
+        
+        var customerResponse = mapper.Map<List<CustomerResponse>>(customer);
+        return new ApiResponse<List<CustomerResponse>>(customerResponse);
     }
 }
